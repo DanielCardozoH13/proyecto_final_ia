@@ -246,7 +246,7 @@ void imprimir_datos(){
   Serial.print(" Potencia: ");
   Serial.println(POTENCIA); 
   
-  delay(300);
+  delay(100);
   //lcd.clear();
 }
 
